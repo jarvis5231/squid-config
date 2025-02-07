@@ -1,0 +1,1 @@
+Squid configuration in Linux
